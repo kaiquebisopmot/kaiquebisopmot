@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaiquebisopmot
-- 👀 I’m interested in front-end
+- 👀 I’m interested in front-end and backend
 - 🌱 I’m currently learning english and T.I
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me, @kaiquebispoo
