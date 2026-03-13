@@ -1,14 +1,17 @@
 # Hi there, I'm Kaique! 👋
 
-**💻 IT Assistant (Infra & Field Service) @ TOTVS | 🎓 Studying Analysis and Systems Development (Cruzeiro do Sul)**
-
----
-
 ### About Me
 
 As an IT professional with a solid foundation in infrastructure and field service, I am currently broadening my expertise to encompass software development. I am concurrently pursuing a degree in Analysis and Systems Development to formalize this transition.
 
 My primary objective is to synthesize my practical infrastructure knowledge with software engineering principles. I am focused on leveraging Python and JavaScript, while actively developing new competencies in Data Science, to architect and implement robust, scalable solutions.
+
+<div>
+   <a href="(https://github.com/kaiquebisopmot)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquebisopmot&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebisopmot&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+</div>
 
 - 🌱 **Currently focused on:** Python, JavaScript, and Data Science fundamentals.
 - 🌎 **Languages:** Portuguese (Native) & English (Professional Working Proficiency).
