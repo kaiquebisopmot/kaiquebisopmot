@@ -49,3 +49,6 @@ My primary objective is to synthesize my practical infrastructure knowledge with
 
  ###
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaiquebisopmot/kaiquebisopmot/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
