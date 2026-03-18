@@ -46,4 +46,6 @@ My primary objective is to synthesize my practical infrastructure knowledge with
     </a>
           <a href = "mailto:kaiquebispo.mota09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         </a>
-  
+
+ ###
+
