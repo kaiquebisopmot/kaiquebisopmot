@@ -7,12 +7,13 @@ As an IT professional with a solid foundation in infrastructure and field servic
 My primary objective is to synthesize my practical infrastructure knowledge with software engineering principles. I am focused on leveraging Python and JavaScript, while actively developing new competencies in Data Science, to architect and implement robust, scalable solutions.
 ##
 
-<div>
-   <a href="(https://github.com/kaiquebisopmot)">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaiquebisopmot&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebisopmot&layout=compact&langs_count=7&theme=gruvbox"/>
+<div align="center">
+  <a href="https://github.com/kaiquebisopmot">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaiquebisopmot&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&include_all_commits=true&count_private=true" alt="Estatísticas Vermelho e Preto" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaiquebisopmot&layout=compact&langs_count=7&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="Linguagens Vermelho e Preto" />
+  </a>
 </div>
-</div>
+<br>
       
  ##     
 - 🌱 **Currently focused on:** Python, JavaScript, and Data Science fundamentals.
